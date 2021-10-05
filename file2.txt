@@ -1,1 +1,2 @@
 "File2" 
+Edited file 2 - additional line added
